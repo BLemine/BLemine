@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from earth</h3>
 <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+   <img src="https://assets.mkdev.me/posts/covers/000/000/162/original/5-ways-to-make-your-work-more-fun.png?1533009505" alt="Coder GIF" width="500" height="260">
   
 </p>
 
