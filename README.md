@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from earth</h3>
 <p align="center">
 
-   <img src="https://assets.mkdev.me/posts/covers/000/000/162/original/5-ways-to-make-your-work-more-fun.png?1533009505" alt="Coder GIF" width="500" height="260">
+   <img src="https://bcpwhatsapp.s3.amazonaws.com/DALL%C2%B7E+2024-01-15+15.39.06+-+An+image+showcasing+a+desktop+with+a+monitor+displaying+code+on+the+screen%2C+symbolizing+a+programming+or+coding+environment.+Beside+the+monitor%2C+there.png" alt="Coder GIF" width="400" height="300">
   
 </p>
 
